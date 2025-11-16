@@ -1505,6 +1505,11 @@
 #         db_is_creator.create_database()
 #
 #
+#
+# print("Hello")
+# print("hello")
 
-print("Hello")
-print("hello")
+
+
+
+print("Проверка репозитория")
