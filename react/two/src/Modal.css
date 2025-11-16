@@ -1,0 +1,15 @@
+.small{
+    width: 40%;
+    box-shadow: 5px 5px 12px 2px gray;
+    padding: 10px;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.big{
+    width: 80%;
+    box-shadow: 5px 5px 12px 2px gray;
+    padding: 10px;
+    margin: 20px auto;
+    cursor: pointer;
+}

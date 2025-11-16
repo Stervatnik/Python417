@@ -1,0 +1,63 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 46,
+      "photo": "https://static-29.sinclairstoryline.com/resources/media/36e828c4-51a0-4b8a-4991-2cfa7d8ae1d1-largeScale_AlanMatthews2020_beard_webphoto320x4201.png?1603404381689"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://static-26.sinclairstoryline.com/resources/media/4d05e5c9-9cb4-49c5-44f0-875026cfdd91-largeScale_GenevieveMelzer2020_webphoto320x4201.png?1603403099107"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://static-30.sinclairstoryline.com/resources/media/887b24c4-ce42-41ae-1102-13241f193c17-887b24c4ce4241ae110213241f193c17rendition_0_SThurman320x420.jpg?1519072704688"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 33,
+      "photo": "https://static-25.sinclairstoryline.com/resources/media/3f1ef009-5f3d-4be8-6f0e-6ab0862f00b5-largeScale_KendallBartley2020_webphoto320x4201.png?1603404656511"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://static-29.sinclairstoryline.com/resources/media/5a1c39f2-a52f-4502-029d-23836f6bfd5a-5a1c39f2a52f4502029d23836f6bfd5arendition_0_HHerrera320x420.jpg?1457454255155"
+    }
+	,
+    {
+      "name": "Marina",
+      "surname": "Bartley",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://static-25.sinclairstoryline.com/resources/media/8547e9d9-9d18-4ca4-6413-bb2f69273cb3-largeScale_Ahtra_webphoto320x420.png?1606180951491"
+    }
+	,
+    {
+      "name": "Amanda",
+      "surname": "Dixon",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://static-16.sinclairstoryline.com/resources/media/819cb586-bf1c-4ea0-0565-5a6fff44f8e4-largeScale_negrete.png?1603403777274"
+    }
+	,
+    {
+      "name": "Billy",
+      "surname": "Rosen",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://static-34.sinclairstoryline.com/resources/media/aafc5703-b96d-46ba-9749-f019887aa71f-largeScale_BillyFloyd2020_webphoto320x420.png?1603402911142"
+    }
+  ]
+}

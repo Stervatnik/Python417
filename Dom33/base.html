@@ -1,0 +1,19 @@
+{% include 'header.html' %}
+
+{% import 'macro.html' as mac %}
+
+<h1>Домашнее задание 33</h1>
+
+<!--  {% for z in zap %}-->
+<!--    <p><input type="{{z.type}}" name="{{ z.name }}" placeholder="{{z.placeholder }}"></p>-->
+<!--  {% endfor %}-->
+
+
+{{ mac.fun_input("text", "firstname", "имя") }}
+{{ mac.fun_input("text", "lastname", "фамилия") }}
+{{ mac.fun_input("text", "address", "адрес") }}
+{{ mac.fun_input("tel", "phone", "телефон") }}
+{{ mac.fun_input("email", "email", "почта") }}
+
+
+{% include 'footer.html' %}
