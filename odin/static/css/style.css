@@ -1,0 +1,43 @@
+body {
+    background: rgb(155, 222, 243);
+    margin: 0;
+    padding: 0;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: rgb(67, 209, 253);
+    padding: 30px;
+    margin-top: 0;
+    font-weight: bold;
+    
+}
+
+.content{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.flash{
+    padding: 10px;
+}
+
+.success{
+    text-align: center;
+    border: 1px solid greenyellow;
+    background-color: rgb(212, 255, 148);
+}
+
+.error{
+    text-align: center;
+    border: 1px solid red;
+    background-color: rgba(246, 120, 120, 0.506);
+}
