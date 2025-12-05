@@ -1,9 +1,9 @@
 :root {
-  --color-sub: #2d2d39;
+  --color-sub: #653f73;
 }
 
 .btn--sub {
-  background-color: var(--color-sub-light);
+  background-color: blueviolet;
 }
 
 .card {
@@ -33,6 +33,7 @@ img {
   z-index: 111;
   background-color: var(--color-sub);
   padding: 1.5rem 0;
+  
 }
 
 .header > .container {
@@ -53,8 +54,9 @@ img {
 }
 
 .header__menuItem > a {
-  color: var(--color-light);
-  font-weight: 300;
+  /* color: var(--color-light); */
+  color: whitesmoke;
+  font-weight: 400;
 }
 
 .toggle-menu > span {
@@ -173,7 +175,7 @@ img {
   height: 40vh;
   display: flex;
   align-items: center;
-  background-color: var(--color-sub);
+  background-color:  #653f73;
 }
 
 .hero-section__box {
